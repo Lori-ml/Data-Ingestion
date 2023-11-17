@@ -33,5 +33,6 @@ streamlit run main.py
 
 ## Results:
 
-https://github.com/Lori-ml/Data-Ingestion-App/assets/41455899/88caaeaa-ca27-4637-8be7-0d102103b70c
+https://github.com/Lori-ml/Data-Ingestion-App/assets/41455899/c158f0dd-52e4-400b-b621-80406328b5a4
+
 
