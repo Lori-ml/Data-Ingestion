@@ -1,0 +1,37 @@
+{
+    "Birth Year": {"astype": "str"},
+    "Gender": {"map": {"Male": "1", "Female": "0"}},
+    "Zipcode": {"astype": "str"},
+	"Apartment": {
+		
+		"apply": {
+			"type": "custom",
+			"function": "process_column"
+			}
+		} ,  
+	
+    "Total Debt": {
+        "astype": "str",
+        "apply": {
+            "type": "custom",
+            "function": "remove_dollar_sign"
+        }
+    } ,
+	
+	"Yearly Income - Person": {
+		"astype": "str",
+		"apply": {
+			"type": "custom",
+			"function": "remove_dollar_sign"
+			}
+		} ,
+		
+	"Per Capita Income - Zipcode": {
+		"astype": "str",
+		"apply": {
+			"type": "custom",
+			"function": "remove_dollar_sign"
+			}
+		} 
+	
+}
