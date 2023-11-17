@@ -2,17 +2,17 @@
 
 This tool provides a streamlined solution for users to perform various data operations within a single interface. Key functionalities include:
 
-**1. File Insertion:** Easily upload CSV or Parquet files, up to 1 GB in size.
+**1.File Insertion:** Easily upload CSV or Parquet files, up to 1 GB in size.
 
-**2. Transformation:** Apply transformations using a JSON file to customize and manipulate data according to user's requirements.
+**2.Transformation:** Apply transformations using a JSON file to customize and manipulate data according to user's requirements.
 
-**3. SQLite Database Integration:** Save transformed data directly to an SQLite database.
+**3.SQLite Database Integration:** Save transformed data directly to a SQLite database.
 
 **4.Query Execution:** Seamlessly execute queries on the stored data, enhancing flexibility and data exploration.
 
 **5.Export to CSV:** Save query results as .CSV files, facilitating data sharing and further analysis.
 
-**6.ChatGPT Integration:** Analyze data interactively through ChatGPT, gaining valuable insights and enhancing the overall analytical experience.
+**6.ChatGPT Integration:** Analyze data interactively through ChatGPT, gain valuable insights and enhance the overall analytical experience.
 
 ## File Description
 
