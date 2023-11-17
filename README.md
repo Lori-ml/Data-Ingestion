@@ -31,7 +31,7 @@ It utilizes functions from data_processing.py for data transformations and analy
 streamlit run main.py
 ```
 
-## Results:
+## Demo:
 
 https://github.com/Lori-ml/Data-Ingestion-App/assets/41455899/c158f0dd-52e4-400b-b621-80406328b5a4
 
