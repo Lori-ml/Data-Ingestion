@@ -33,5 +33,5 @@ streamlit run main.py
 
 ## Results:
 
-Uploading Data_Ingestion_2.mp4…
+https://github.com/Lori-ml/Data-Ingestion-App/assets/41455899/88caaeaa-ca27-4637-8be7-0d102103b70c
 
