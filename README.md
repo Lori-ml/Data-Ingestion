@@ -2,6 +2,7 @@
 
 https://github.com/Lori-ml/Data-Ingestion-App/assets/41455899/c158f0dd-52e4-400b-b621-80406328b5a4
 
+
 # Project Description
 
 This tool provides a streamlined solution for users to perform various data operations within a single interface. Key functionalities include:
