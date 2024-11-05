@@ -36,3 +36,9 @@ It utilizes functions from data_processing.py for data transformations and analy
 streamlit run main.py
 ```
 
+## Support my Project
+
+<p>If you find this project helpful, consider supporting me with a donation by clicking this button <a href="https://paypal.me/AnduelHoxha?country.x=US&locale.x=en_US"><img width="150" src="Donate-button.png"></a> or scan the QR code below:</p>
+
+![Donate QR Code](qrcode.png)
+
